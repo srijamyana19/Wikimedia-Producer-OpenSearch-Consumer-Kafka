@@ -1,0 +1,5 @@
+rootProject.name = 'WikiOpenSearch'
+include 'conduktor-platform'
+include 'kafka-producer-wikimedia'
+include 'kafka-consumer-opensearch'
+
